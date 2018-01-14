@@ -1,0 +1,23 @@
+{
+  "name": "janisse_adam_hw2",
+  "version": "1.0.0",
+  "description": "roku grunt files",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-contrib-uglify": "^3.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajanisse/HW2.git"
+  },
+  "author": "adam janisse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajanisse/HW2/issues"
+  },
+  "homepage": "https://github.com/ajanisse/HW2#readme"
+}

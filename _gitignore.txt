@@ -1,0 +1,5 @@
+### add stuff you don't want to track here - files and folders
+
+.DS_Store
+node_modules
+.sass-cache
